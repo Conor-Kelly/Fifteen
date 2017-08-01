@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  background: white;
+  border: 10px solid aqua;
+  width: 800px;
+  height: 800px;
+  margin: 100px auto;
+}
+.inner{
+  text-align: center;
+  padding: 50px;
+  background-color: grey;
+  height: 80px;
+  width: 80px;
+  border: 10px solid white;
+  color: white;
+  font-size: 70px;
+}
